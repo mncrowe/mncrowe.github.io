@@ -1,5 +1,5 @@
 ---
-title: "The decay of Hill$'$s vortex in a rotating flow"
+title: "The decay of Hills vortex in a rotating flow"
 permalink: /publication/paper_7
 date: 2021-04-27
 venue: 'Journal of Fluid Mechanics'
