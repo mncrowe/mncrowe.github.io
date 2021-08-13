@@ -1,6 +1,6 @@
 ---
 title: "The evolution of a front in turbulent thermal wind balance. Part 2: Numerics"
-permalink: /publication/paper_1
+permalink: /publication/paper_2
 date: 2019-08-15
 venue: 'Journal of Fluid Mechanics'
 paperurl: 'http://mncrowe.github.io/files/Crowe_Taylor_19a.pdf'
