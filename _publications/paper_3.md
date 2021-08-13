@@ -1,6 +1,6 @@
 ---
 title: "Baroclinic instability with a simple model for vertical mixing"
-permalink: /publication/paper_2
+permalink: /publication/paper_3
 date: 2019-09-27
 venue: 'Journal of Physical Oceanography'
 paperurl: 'http://mncrowe.github.io/files/Crowe_Taylor_19b.pdf'
