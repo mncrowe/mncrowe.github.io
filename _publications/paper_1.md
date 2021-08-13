@@ -1,6 +1,6 @@
 ---
 title: "The evolution of a front in turbulent thermal wind balance. Part 1. Theory"
-author: M. N. Crowe
+author: "M. N. Crowe and J. R. Taylor"
 permalink: /publication/paper_1
 date: 2018-07-04
 venue: 'Journal of Fluid Mechanics'
