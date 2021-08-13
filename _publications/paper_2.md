@@ -1,8 +1,8 @@
 ---
-title: "Baroclinic instability with a simple model for vertical mixing"
-permalink: /publication/paper_2
-date: 2019-09-27
-venue: 'Journal of Physical Oceanography'
+title: "The evolution of a front in turbulent thermal wind balance. Part 2: Numerics"
+permalink: /publication/paper_1
+date: 2019-08-15
+venue: 'Journal of Fluid Mechanics'
 paperurl: 'http://mncrowe.github.io/files/Crowe_Taylor_19a.pdf'
-citation: 'M. N. Crowe, and J. R. Taylor, 2019, Baroclinic instability with a simple model for vertical mixing, <i>J. Phys. Oceanogr.</i>, 49 (12), 3273-3300.'
+citation: 'M. N. Crowe, and J. R. Taylor, 2019, The evolution of a front in turbulent thermal wind balance. Part 2: Numerics, <i>J. Fluid Mech.</i>, 880, 326-352.'
 ---
