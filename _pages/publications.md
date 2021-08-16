@@ -28,7 +28,7 @@ author_profile: true
 
 5. Crowe, M. N., and E. R. Johnson, 2020, The effects of vertical mixing on nonlinear Kelvin waves, J. Fluid Mech., 903, A22.
 
-4. Crowe, M. N., and J. R. Taylor, 2020, The effects of surface wind stress and buoyancy flux on a front in turbulent thermal wind balance, Fluids, 5 (2). [link.](https://www.mdpi.com/2311-5521/5/2/87)
+4. Crowe, M. N., and J. R. Taylor, 2020, The effects of surface wind stress and buoyancy flux on a front in turbulent thermal wind balance, Fluids, 5 (2). ([Open access link](https://www.mdpi.com/2311-5521/5/2/87))
 
 3. Crowe, M. N., and J. R. Taylor, 2019, Baroclinic instability with a simple model for vertical mixing, J. Phys. Oceanogr., 49 (12), 3273-3300.
 
