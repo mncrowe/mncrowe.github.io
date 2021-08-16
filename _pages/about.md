@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied mathematician working in geophysical fluid dynamics and physical oceanography. My work combines asymptotic analysis with numerical simulations and focuses on understanding the effects of turbulent mixing and boundary processes on the dynamics of the ocean and atmosphere.
+I am an applied mathematician working in geophysical fluid dynamics and physical oceanography. I am currently a [Research Fellow at UCL](https://iris.ucl.ac.uk/iris/browse/profile?upi=MNCRO25). My work combines asymptotic analysis with numerical simulations and focuses on understanding the effects of turbulent mixing and boundary processes on the dynamics of the ocean and atmosphere.
 
 My research seeks to address the following questions:
 
