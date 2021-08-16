@@ -18,9 +18,9 @@ author_profile: true
 {% endfor %}
 -->
 
-9. Crowe, M. N., and E. R. Johnson, 2021, The  propagation and decay of a coastal vortex on a shelf, J. Fluid Mech., Accepted. (arXiv preprint: 2102.04806)
+9. Crowe, M. N., and E. R. Johnson, 2021, The  propagation and decay of a coastal vortex on a shelf, J. Fluid Mech., Accepted. ([arXiv preprint: 2102.04806](https://arxiv.org/abs/2102.04806))
 
-8. Crowe, M. N., 2021, The modification of turbulent thermal wind balance by non-traditional effects, J. Fluid Mech., Accepted. (arXiv preprint: 2103.08549)
+8. Crowe, M. N., 2021, The modification of turbulent thermal wind balance by non-traditional effects, J. Fluid Mech., Accepted. ([arXiv preprint: 2103.08549](https://arxiv.org/abs/2103.08549))
 
 7. Crowe, M. N., C. J. D. Kemp, and E. R. Johnson, 2021, The decay of Hill's vortex in a rotating flow, J. Fluid Mech., 919, A6.
 
@@ -28,7 +28,7 @@ author_profile: true
 
 5. Crowe, M. N., and E. R. Johnson, 2020, The effects of vertical mixing on nonlinear Kelvin waves, J. Fluid Mech., 903, A22.
 
-4. Crowe, M. N., and J. R. Taylor, 2020, The effects of surface wind stress and buoyancy flux on a front in turbulent thermal wind balance, Fluids, 5 (2).
+4. Crowe, M. N., and J. R. Taylor, 2020, The effects of surface wind stress and buoyancy flux on a front in turbulent thermal wind balance, Fluids, 5 (2). [link.](https://www.mdpi.com/2311-5521/5/2/87)
 
 3. Crowe, M. N., and J. R. Taylor, 2019, Baroclinic instability with a simple model for vertical mixing, J. Phys. Oceanogr., 49 (12), 3273-3300.
 
