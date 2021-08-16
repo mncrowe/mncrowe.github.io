@@ -35,3 +35,5 @@ author_profile: true
 * Crowe, M. N., and J. R. Taylor, 2019, The evolution of a front in turbulent thermal wind balance. Part 2: Numerics, J. Fluid Mech., 880, 326-352.
 
 * Crowe, M. N., and J. R. Taylor, 2018, The evolution of a front in turbulent thermal wind balance. Part 1: Theory, J. Fluid Mech., 850, 179-211.
+
+> Heading
