@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+[link example](http://https://mncrowe.github.io/images/profile.png)
 
 <!--
 {% if author.googlescholar %}
