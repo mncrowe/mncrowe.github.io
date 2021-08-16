@@ -36,4 +36,6 @@ author_profile: true
 
 * Crowe, M. N., and J. R. Taylor, 2018, The evolution of a front in turbulent thermal wind balance. Part 1: Theory, J. Fluid Mech., 850, 179-211.
 
-# Heading
+# Thesis
+
+* Crowe, M. N., 2019, The evolution of ocean fronts in the presence of mixed layer turbulence, DOI: 10.17863/CAM.44844. ([Repository link](https://www.repository.cam.ac.uk/handle/1810/297791))
