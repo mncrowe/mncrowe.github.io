@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <!-- -->
-[link example]http://mncrowe.github.io/files/test.pdf)
+[link example](http://mncrowe.github.io/files/test.pdf)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
