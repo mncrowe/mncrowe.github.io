@@ -18,9 +18,9 @@ author_profile: true
 {% endfor %}
 -->
 
-* Crowe, M. N., and E. R. Johnson, 2021, The  propagation and decay of a coastal vortex on a shelf, J. Fluid Mech., 927, A38. ([Accepted version])(http://mncrowe.github.io/files/Crowe_Johnson_2021.pdf) ([arXiv preprint: 2102.04806](https://arxiv.org/abs/2102.04806))
+* Crowe, M. N., and E. R. Johnson, 2021, The  propagation and decay of a coastal vortex on a shelf, J. Fluid Mech., 927, A38. [(Accepted version)](http://mncrowe.github.io/files/Crowe_Johnson_2021.pdf) [(arXiv preprint: 2102.04806)](https://arxiv.org/abs/2102.04806)
 
-* Crowe, M. N., 2021, The modification of turbulent thermal wind balance by non-traditional effects, J. Fluid Mech., 925, A17. ([Accepted version])(http://mncrowe.github.io/files/Crowe_2021.pdf) ([arXiv preprint: 2103.08549](https://arxiv.org/abs/2103.08549))
+* Crowe, M. N., 2021, The modification of turbulent thermal wind balance by non-traditional effects, J. Fluid Mech., 925, A17. [(Accepted version)](http://mncrowe.github.io/files/Crowe_2021.pdf) [(arXiv preprint: 2103.08549)](https://arxiv.org/abs/2103.08549)
 
 * Crowe, M. N., C. J. D. Kemp, and E. R. Johnson, 2021, The decay of Hill's vortex in a rotating flow, J. Fluid Mech., 919, A6. [(Accepted version)](http://mncrowe.github.io/files/Crowe_et_al_2021.pdf)
 
