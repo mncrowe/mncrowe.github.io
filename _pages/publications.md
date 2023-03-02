@@ -18,7 +18,7 @@ author_profile: true
 {% endfor %}
 -->
 
-* Johnson, E. R., and M. N. Crowe, 2022, Oceanic dipoles in a surface quasigeostrophic model, submitted. [(arXiv preprint: 2211.05093)](https://arxiv.org/abs/2211.05093)
+* Johnson, E. R., and M. N. Crowe, 2023, Oceanic dipoles in a surface quasigeostrophic model, J. Fluid Mech., 958, R2. [(Open access link)](https://doi.org/10.1017/jfm.2023.87) [(arXiv preprint: 2211.05093)](https://arxiv.org/abs/2211.05093)
 
 * Crowe, M. N., and E. R. Johnson, 2021, The  propagation and decay of a coastal vortex on a shelf, J. Fluid Mech., 927, A38. [(Accepted version)](http://mncrowe.github.io/files/Crowe_Johnson_2021.pdf) [(arXiv preprint: 2102.04806)](https://arxiv.org/abs/2102.04806)
 
