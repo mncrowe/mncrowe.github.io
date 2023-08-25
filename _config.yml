@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Matthew Crowe"
   avatar           : "profile2.png"
-  bio              : "IMSS Fellow at UCL"
-  location         : "London, UK"
+  bio              : "Lecturer at Newcastle University"
+  location         : "Newcastle, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "m.crowe ~AT~ ucl.ac.uk"
+  email            : "Matthew.Crowe2 ~AT~ newcastle.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/mncrowe"
+  github           : "/mncrowe"
   google_plus      :
   keybase          :
   instagram        :
