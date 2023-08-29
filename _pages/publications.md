@@ -18,7 +18,7 @@ author_profile: true
 {% endfor %}
 -->
 
-* Crowe, M. N., and E. R. Johnson, 2023, The evolution of surface quasi-geostrophic modons on sloping topography, J. Fluid. Mech., in review. [(arXiv preprint: 2302.05248)](https://arxiv.org/abs/2302.05248)
+* Crowe, M. N., and E. R. Johnson, 2023, The evolution of surface quasi-geostrophic modons on sloping topography, J. Fluid. Mech., 970, A10. [(Open access link)](https://doi.org/10.1017/jfm.2023.607) [(arXiv preprint: 2302.05248)](https://arxiv.org/abs/2302.05248)
 
 * Johnson, E. R., and M. N. Crowe, 2023, Oceanic dipoles in a surface quasigeostrophic model, J. Fluid Mech., 958, R2. [(Open access link)](https://doi.org/10.1017/jfm.2023.87) [(arXiv preprint: 2211.05093)](https://arxiv.org/abs/2211.05093)
 
