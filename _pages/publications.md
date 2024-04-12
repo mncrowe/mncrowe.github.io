@@ -46,7 +46,7 @@ author_profile: true
 
 # Proceedings
 
-*   Atoufi, A., Baker, L., Cont&ograve;, F., Crowe, M., Doak, A., Doran, R., Guseva, A., Hodgkinson, R., Jalalabadi, R., Keepfer, N., Kontogiannis, A., Lloyd, C., Manchester, E., Morgan, M., Naga, A., Prasad, S., Shahbazi, F., Skevington, E., Snow, B., et al. (2024). Proceedings of the NFFDy Summer Programme on &lsquo;Data in Fluids&rsquo;. Apollo - University of Cambridge Repository. https://doi.org/10.17863/CAM.107271
+*   Atoufi, A., Baker, L., Cont&ograve;, F., Crowe, M., Doak, A., Doran, R., Guseva, A., Hodgkinson, R., Jalalabadi, R., Keepfer, N., Kontogiannis, A., Lloyd, C., Manchester, E., Morgan, M., Naga, A., Prasad, S., Shahbazi, F., Skevington, E., Snow, B., et al. (2024). Proceedings of the NFFDy Summer Programme on &lsquo;Data in Fluids&rsquo;. Apollo - University of Cambridge Repository. [(https://doi.org/10.17863/CAM.107271)]
 
 # PhD Thesis
 
