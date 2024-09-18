@@ -22,7 +22,7 @@ author_profile: true
 
 * Crowe, M. N., and E. R. Johnson, 2024, Modon solutions in an N-layer quasi-geostrophic model, J. Fluid. Mech., 994, R1. [(Open access link)](https://doi.org/10.1017/jfm.2024.619) [(arXiv preprint: 2404.07718)](https://arxiv.org/abs/2404.07718)
 
-* Davies, J., G. G. Sutyrin, M. N. Crowe, and P. S. Berloff, 2023, Deformation and destruction of north-eastward drifting dipoles, Phys. Fluids, 35 (11), 116601. [(Accepted version)](http://mncrowe.github.io/files/Davies_et_al_2023.pdf)
+* Davies, J., G. G. Sutyrin, M. N. Crowe, and P. S. Berloff, 2023, Deformation and destruction of north-eastward drifting dipoles, Phys. Fluids, 35 (11), 116601. [(Open access link)](https://doi.org/10.1063/5.0171909) [(Accepted version)](http://mncrowe.github.io/files/Davies_et_al_2023.pdf)
 
 * Crowe, M. N., and E. R. Johnson, 2023, The evolution of surface quasi-geostrophic modons on sloping topography, J. Fluid. Mech., 970, A10. [(Open access link)](https://doi.org/10.1017/jfm.2023.607) [(arXiv preprint: 2302.05248)](https://arxiv.org/abs/2302.05248)
 
