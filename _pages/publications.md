@@ -18,6 +18,8 @@ author_profile: true
 {% endfor %}
 -->
 
+* Crowe, M. N., 2025, QGDipoles.jl: A Julia package for calculating dipolar vortex solutions to the Quasi-Geostrophic equations, JOSS, submitted. [(JOSS draft)](https://raw.githubusercontent.com/openjournals/joss-papers/joss.07448/joss.07448/10.21105.joss.07448.pdf)
+
 * Crowe, M. N., and G. G. Sutyrin, 2025, Symmetry breaking of two-layer eastward propagating dipoles, Phys. Fluids, accepted. [(arXiv preprint: 2410.14402)](https://arxiv.org/abs/2410.14402)
 
 * Crowe, M. N., and E. R. Johnson, 2025, Spectral methods for coastal-trapped waves and instabilities in a background flow, Continental Shelf Res., submitted. [(arXiv preprint: 2406.07199)](https://arxiv.org/abs/2406.07199)
