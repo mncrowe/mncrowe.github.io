@@ -5,14 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<!--
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-
 In 2022/23 I taught Fluid Mechanics <a href="https://www.ucl.ac.uk/maths/sites/maths/files/math0015.pdf">(MATH0015)</a> at UCL. UCL students should see the Moodle page for course content.
 
 In 2023/24 I taught Geophysical Fluid Dynamics (MAS8810) at Newcastle University. Students should see the course page on Canvas.
