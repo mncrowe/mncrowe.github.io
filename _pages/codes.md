@@ -25,4 +25,4 @@ During the NFFDy Summer School in Cambridge in 2023, I worked with [Lois Baker](
 
 ### [Dedalus](https://dedalus-project.org/)
 
-I am a frequent user of the [Python](https://www.python.org/) package Dedalus, a general spectral PDE solver. Some of my example Dedalus scripts can be found [here](https://github.com/mncrowe/Dedalus_Scripts). Dedalus scripts relating to my published work are aailable upon request though are likely written in Dedalus v2, which has now been mostly superseded by v3.
+I am a frequent user of the [Python](https://www.python.org/) package Dedalus, a general spectral PDE solver. Some of my example Dedalus scripts can be found [here](https://github.com/mncrowe/Dedalus_Scripts). Dedalus scripts relating to my published work are available upon request though are likely written in Dedalus v2, which has now been mostly superseded by v3.
