@@ -30,4 +30,4 @@ I am a frequent user of the [Python](https://www.python.org/) package Dedalus, a
 
 ### [VisualPDE](https://visualpde.com/)
 
-I have worked with [Ben Walker](https://benjaminwalker.info/) and [Andrew Krause](https://www.andrewkrause.org/)
+I have worked with [Ben Walker](https://benjaminwalker.info/) and [Andrew Krause](https://www.andrewkrause.org/) to create VisualPDE examples of [ocean spills](https://visualpde.com/visual-stories/ducks) and the [rotating shallow water equations](https://visualpde.com/fluids/shallow_water) for mathematics outreach.
