@@ -22,3 +22,7 @@ I have contributed to GeophysicalFlows, a spectral solver for quasi-geostrophic 
 ### [Machine Learning for Submesoscale Modelling](https://github.com/mncrowe/ML_Submesoscales)
 
 During the NFFDy Summer School in Cambridge in 2023, I worked with [Lois Baker](https://loisbaker.github.io/) and [Carolanne Vouriot](https://www.sheffield.ac.uk/mac/people/civil-academic-staff/carolanne-vouriot) using machine learning techniques to estimate up/downwelling in submesoscale simulations. This directory contains [Julia](https://julialang.org/) setup files for submesoscale simulations in [Oceananigans](https://github.com/CliMA/Oceananigans.jl), MATLAB data analysis files, and Python files for implementing a convolutional neural network using [PyTorch](https://pytorch.org/). Why use one language when you can use three? A writeup of the project is available [here](https://www.repository.cam.ac.uk/items/e8ba27d6-ea44-4ace-bb87-578bbb3576f3).
+
+### [Dedalus](https://dedalus-project.org/)
+
+I am a frequent user of the [Python](https://www.python.org/) package Dedalus, a general spectral PDE solver. Some of my example Dedalus scripts can be found [here](https://github.com/mncrowe/Dedalus_Scripts). Dedalus scripts relating to my published work are aailable upon request though are likely written in Dedalus v2, which has now been mostly superseded by v3.
