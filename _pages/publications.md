@@ -18,7 +18,7 @@ author_profile: true
 {% endfor %}
 -->
 
-* Crowe, M. N., 2025, QGDipoles.jl: A Julia package for calculating dipolar vortex solutions to the Quasi-Geostrophic equations, JOSS, submitted. [(JOSS draft)](https://raw.githubusercontent.com/openjournals/joss-papers/joss.07448/joss.07448/10.21105.joss.07448.pdf)
+* Crowe, M. N., 2025, QGDipoles.jl: A Julia package for calculating dipolar vortex solutions to the Quasi-Geostrophic equations. Journal of Open Source Software, 10(108), 7767. [(Open access link)](https://joss.theoj.org/papers/10.21105/joss.07767)
 
 * Crowe, M. N., and G. G. Sutyrin, 2025, Symmetry breaking of two-layer eastward propagating dipoles, Phys. Fluids, 37 (2), 021708. [(Open access link)](https://doi.org/10.1063/5.0251761) [(arXiv preprint: 2410.14402)](https://arxiv.org/abs/2410.14402)
 
