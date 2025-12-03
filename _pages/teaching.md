@@ -11,3 +11,5 @@ In 2023/24 I taught Geophysical Fluid Dynamics [(MAS8810)](https://www.ncl.ac.uk
 
 In 2024/25 I taught Partial Differential Equations <a href = "https://www.ncl.ac.uk/mobility/newcastle/study-abroad/MAS3806">(MAS3806)</a> and Differential Equations, Waves and Transforms <a href = "https://www.ncl.ac.uk/mobility/newcastle/study-abroad/MAS2802">(MAS2802)</a> at Newcastle University. Students should see the course pages on Canvas. I have written Matlab example scripts for [the method of characteristics](https://github.com/mncrowe/Method_of_Characteristics) and [second-order PDEs](https://github.com/mncrowe/2nd_Order_PDEs).
 
+In 2025/26 I taught Geophysical Fluid Dynamics (MSP8810) and Differential Equations, Waves and Transforms (MSP2802) at Newcastle University. Students should see the course pages on Canvas. Code used to run the simulations shown in GFD can be found [here](https://github.com/mncrowe/MSP8810_Demos/tree/main).
+
