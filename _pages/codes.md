@@ -13,7 +13,7 @@ I have recently written a [Julia](https://julialang.org/) package to calculate d
 
 ### [Spectral Methods for Coastal Trapped Waves](https://github.com/mncrowe/CTWSpectralMethods.m)
 
-This MATLAB code uses spectral methods to determine coastal-trapped wave solutions in the presence of complicated bottom topography, stratification and background flow. The method and applications are outlined [here](https://arxiv.org/abs/2406.07199) in joint work with [Ted Johnson](https://www.ucl.ac.uk/~ucaherj/). I am looking to implement this method in an open source language, contact me if this is something you'd find useful.
+This MATLAB code uses spectral methods to determine coastal-trapped wave solutions in the presence of complicated bottom topography, stratification and background flow. The method and applications are outlined [here](https://arxiv.org/abs/2406.07199) in joint work with [Ted Johnson](https://www.ucl.ac.uk/~ucaherj/). I have implemented an open source version of this code in Julia as [CTWSolve.jl](https://github.com/mncrowe/CTWSolve.jl). The Julia version includes additional features not included in the original MATLAB version, such as viscosity/diffusivity, and will be updated in the future. Let me know if you're interested in contributing to this project.
 
 ### [GeophysicalFlows.jl](https://github.com/FourierFlows/GeophysicalFlows.jl)
 
