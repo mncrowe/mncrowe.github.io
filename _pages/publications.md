@@ -18,11 +18,17 @@ author_profile: true
 {% endfor %}
 -->
 
-* Crowe, M. N., 2025, QGDipoles.jl: A Julia package for calculating dipolar vortex solutions to the Quasi-Geostrophic equations. Journal of Open Source Software, 10(108), 7767. [(Open access link)](https://joss.theoj.org/papers/10.21105/joss.07767)
+* Nguyen, M., M. N. Crowe, and E. R. Johnson, 2026, Rossby waves in a many-basin Arctic Ocean, in preparation.
+
+* Crowe, M. N. 2026, Can vertical mixing arrest ocean frontogenesis?, J. Fluid. Mech., submitted.
+
+* Crowe, M. N., 2026, Three-dimensional modons in a quasi-geostrophic model, Geophys. & Astrophys. Fluid Dyn., accepted.
+
+* Crowe, M. N., and E. R. Johnson, 2026, Spectral methods for coastal-trapped waves and instabilities in a background flow, J. Phys. Oceanogr., in review. [(arXiv preprint: 2406.07199)](https://arxiv.org/abs/2406.07199)
+
+* Crowe, M. N., 2025, QGDipoles.jl: A Julia package for calculating dipolar vortex solutions to the Quasi-Geostrophic equations. J. Open Source Software, 10(108), 7767. [(Open access link)](https://joss.theoj.org/papers/10.21105/joss.07767)
 
 * Crowe, M. N., and G. G. Sutyrin, 2025, Symmetry breaking of two-layer eastward propagating dipoles, Phys. Fluids, 37 (2), 021708. [(Open access link)](https://doi.org/10.1063/5.0251761) [(arXiv preprint: 2410.14402)](https://arxiv.org/abs/2410.14402)
-
-* Crowe, M. N., and E. R. Johnson, 2025, Spectral methods for coastal-trapped waves and instabilities in a background flow, Continental Shelf Res., submitted. [(arXiv preprint: 2406.07199)](https://arxiv.org/abs/2406.07199)
 
 * Crowe, M. N., and E. R. Johnson, 2024, Modon solutions in an N-layer quasi-geostrophic model, J. Fluid. Mech., 994, R1. [(Open access link)](https://doi.org/10.1017/jfm.2024.619) [(arXiv preprint: 2404.07718)](https://arxiv.org/abs/2404.07718)
 
