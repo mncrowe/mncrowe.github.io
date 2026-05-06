@@ -22,7 +22,7 @@ author_profile: true
 
 * Crowe, M. N. 2026, Can vertical mixing arrest ocean frontogenesis?, J. Fluid. Mech., submitted.
 
-* Crowe, M. N., 2026, Three-dimensional modons in a quasi-geostrophic model, Geophys. & Astrophys. Fluid Dyn., accepted.
+* Crowe, M. N., 2026, Three-dimensional modons in a quasi-geostrophic model, Geophys. & Astrophys. Fluid Dyn., 10.1080/03091929.2026.2660263. [(Open access link)](https://www.tandfonline.com/doi/full/10.1080/03091929.2026.2660263)
 
 * Crowe, M. N., and E. R. Johnson, 2026, Spectral methods for coastal-trapped waves and instabilities in a background flow, J. Phys. Oceanogr., in review. [(arXiv preprint: 2406.07199)](https://arxiv.org/abs/2406.07199)
 
@@ -58,7 +58,7 @@ author_profile: true
 
 # Proceedings
 
-*   Atoufi, A., Baker, L., Cont&ograve;, F., Crowe, M., Doak, A., Doran, R., Guseva, A., Hodgkinson, R., Jalalabadi, R., Keepfer, N., Kontogiannis, A., Lloyd, C., Manchester, E., Morgan, M., Naga, A., Prasad, S., Shahbazi, F., Skevington, E., Snow, B., et al. (2024). Proceedings of the NFFDy Summer Programme on Data in Fluids, DOI: 10.17863/CAM.107271. ([Repository link](https://doi.org/10.17863/CAM.107271))
+*   Atoufi, A., Baker, L., Contograve;, F., Crowe, M., Doak, A., Doran, R., Guseva, A., Hodgkinson, R., Jalalabadi, R., Keepfer, N., Kontogiannis, A., Lloyd, C., Manchester, E., Morgan, M., Naga, A., Prasad, S., Shahbazi, F., Skevington, E., Snow, B., et al. (2024). Proceedings of the NFFDy Summer Programme on Data in Fluids, DOI: 10.17863/CAM.107271. ([Repository link](https://doi.org/10.17863/CAM.107271))
 
 # PhD Thesis
 
